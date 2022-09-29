@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<?import javafx.scene.control.Button?>
+<AnchorPane fx:controller="sample.Controller" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="517.0" prefWidth="530.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle fx:id="r00" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="14.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" AnchorPane.bottomAnchor="461.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="473.0" AnchorPane.topAnchor="14.0" />
+      <Rectangle fx:id="r01" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="74.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r02" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="131.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r03" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="189.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r04" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="245.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r05" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="303.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r06" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="357.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r07" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="416.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r08" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="472.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r10" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="15.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r11" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="74.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r12" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="131.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r13" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="189.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r14" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="245.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r15" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="303.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r16" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="357.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r17" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="416.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r18" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="472.0" layoutY="68.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r20" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="15.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r21" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="74.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r22" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="131.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r23" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="189.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r24" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="245.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r25" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="303.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r26" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="357.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r27" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="416.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r28" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="472.0" layoutY="123.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r30" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="14.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r31" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="74.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r32" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="131.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r33" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="189.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r34" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="245.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r35" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="303.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r36" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="357.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r37" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="416.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r38" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="472.0" layoutY="183.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r40" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="15.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r41" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="74.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r42" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="131.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r43" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="189.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r44" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="245.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r45" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="303.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r46" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="357.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r47" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="416.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r48" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="472.0" layoutY="237.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r50" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="15.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r51" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="74.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r52" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="131.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r53" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="189.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r54" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="245.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r55" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="303.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r56" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="357.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r57" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="416.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r58" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="472.0" layoutY="292.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r60" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="15.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r61" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="75.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r62" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="132.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r63" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="190.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r64" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="246.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r65" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="304.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r66" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="358.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r67" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="417.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r68" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="473.0" layoutY="345.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r70" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="16.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r71" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="75.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r72" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="132.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r73" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="190.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r74" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="246.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r75" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="304.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r76" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="358.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r77" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="417.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r78" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="473.0" layoutY="399.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r80" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="16.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r81" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="75.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r82" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="132.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r83" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="190.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r84" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="246.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r85" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="304.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r86" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="358.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r87" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="417.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Rectangle fx:id="r88" arcHeight="5.0" arcWidth="5.0" fill="#ccd3da" height="42.0" layoutX="473.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" width="43.0" />
+      <Label fx:id="label_00" layoutX="31.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_01" layoutX="91.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_02" layoutX="147.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_03" layoutX="205.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_04" layoutX="261.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_05" layoutX="320.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_06" layoutX="374.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_07" layoutX="433.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_08" layoutX="491.0" layoutY="27.0" text="0" />
+      <Label fx:id="label_10" layoutX="32.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_11" layoutX="93.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_12" layoutX="149.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_13" layoutX="207.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_14" layoutX="263.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_15" layoutX="321.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_16" layoutX="375.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_17" layoutX="434.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_18" layoutX="491.0" layoutY="81.0" text="0" />
+      <Label fx:id="label_20" layoutX="32.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_21" layoutX="93.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_22" layoutX="149.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_23" layoutX="207.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_24" layoutX="263.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_25" layoutX="321.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_26" layoutX="375.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_27" layoutX="434.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_28" layoutX="491.0" layoutY="136.0" text="0" />
+      <Label fx:id="label_30" layoutX="32.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_31" layoutX="91.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_32" layoutX="148.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_33" layoutX="207.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_34" layoutX="262.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_35" layoutX="320.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_36" layoutX="375.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_37" layoutX="433.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_38" layoutX="490.0" layoutY="196.0" text="0" />
+      <Label fx:id="label_40" layoutX="32.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_41" layoutX="91.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_42" layoutX="148.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_43" layoutX="206.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_44" layoutX="262.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_45" layoutX="320.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_46" layoutX="374.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_47" layoutX="433.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_48" layoutX="490.0" layoutY="250.0" text="0" />
+      <Label fx:id="label_50" layoutX="32.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_51" layoutX="92.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_52" layoutX="149.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_53" layoutX="207.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_54" layoutX="263.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_55" layoutX="321.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_56" layoutX="375.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_57" layoutX="434.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_58" layoutX="490.0" layoutY="305.0" text="0" />
+      <Label fx:id="label_60" layoutX="32.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_61" layoutX="93.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_62" layoutX="149.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_63" layoutX="207.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_64" layoutX="263.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_65" layoutX="321.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_66" layoutX="375.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_67" layoutX="434.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_68" layoutX="491.0" layoutY="358.0" text="0" />
+      <Label fx:id="label_70" layoutX="32.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_71" layoutX="93.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_72" layoutX="149.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_73" layoutX="207.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_74" layoutX="263.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_75" layoutX="321.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_76" layoutX="375.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_77" layoutX="434.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_78" layoutX="490.0" layoutY="412.0" text="0" />
+      <Label fx:id="label_80" layoutX="33.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_81" layoutX="93.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_82" layoutX="149.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_83" layoutX="207.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_84" layoutX="263.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_85" layoutX="322.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_86" layoutX="375.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_87" layoutX="434.0" layoutY="466.0" text="0" />
+      <Label fx:id="label_88" layoutX="491.0" layoutY="466.0" text="0" />
+      <Button fx:id="button" layoutX="250.0" layoutY="525.0" mnemonicParsing="false" text="star" />
+
+
+   </children>
+</AnchorPane>
